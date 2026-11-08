@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+DSA+with+C%2B%2B;Exploring+Full+Stack+Development;Building+Real+World+Projects;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Software+Development;Learning+DSA+with+C%2B%2B;Building+Real+World+Projects;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -22,23 +22,27 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js" />
 </p>
 
-### Frameworks & Libraries
+### Currently Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -47,7 +51,7 @@
 
 | Project | Description | Technologies |
 |---|---|---|
-| MoneyMap | Personal Expense Tracker and Budget Management | React, Node.js, MySQL |
+| MoneyMap | Personal Expense Tracker and Budget Management | React, MySQL |
 | Business Portfolio Website | Website for a Mechanical & Fasteners Business | HTML, CSS, JavaScript |
 | C++ DSA | Data Structures and Algorithms Practice | C++ |
 
